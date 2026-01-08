@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @lmunoz-q
-- 👀 I’m interested in be better every day
-- 🌱 I’m currently Python Developper
 - 📫 How to reach me, send me a mail in lmunoz-q@student.42.fr
